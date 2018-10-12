@@ -1,0 +1,8 @@
+com\boot\one\controller\BookController.class
+com\boot\one\repository\SubjectRepository.class
+com\boot\one\model\Subject.class
+com\boot\one\dao\BookDAO.class
+com\boot\one\dao\SubjectDAO.class
+com\boot\one\model\Book.class
+com\boot\one\repository\BookRepository.class
+com\boot\one\main\App.class
